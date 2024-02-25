@@ -1,0 +1,55 @@
+body {
+    background-color: #e1e0df;
+    font-family: Arial, sans-serif;
+}
+
+.header-class {
+    background-color: #021b43; 
+    color: #ffffff; 
+    padding: 10px;
+}
+
+.nav-class {
+    background-color: #010b1d;
+    color: #fff;
+}
+
+.nav-class a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-class a:hover {
+    text-decoration: underline;
+}
+
+.nav-class .active {
+    font-weight: bold;
+}
+
+.title-class, .section-title-class {
+    color: #6f0d00;
+}
+
+.text-class {
+    color: #021b43;
+}
+
+.image-class {
+    border: 2px solid #021b43;
+}
+
+.form-class input,
+.button-class {
+    background-color: #021b43;
+    color: #fff;
+    padding: 8px;
+    margin: 5px;
+}
+
+.footer-class {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
